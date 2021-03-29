@@ -34,7 +34,6 @@ Kunsh Singh and Saatvik Vadlapatla
 Chantilly High School
 Chantilly, Virginia
 Class of 2021
-(***Delete*** >> This email was sent using python)
                                         """
     
 
