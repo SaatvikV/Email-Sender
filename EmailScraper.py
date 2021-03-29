@@ -3,7 +3,7 @@ import re
 from bs4 import BeautifulSoup
 
 allLinks = [];mails=[]
-url = 'https://chantillyhs.fcps.edu/student-life-and-activities'
+url = 'https://www.ceoemail.com/us-nyse-100-companies.php'
 response = requests.get(url)
 soup=BeautifulSoup(response.text,'html.parser')
 links = [a.attrs.get('href') for a in soup.select('a[href]') ]
