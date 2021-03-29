@@ -19,6 +19,7 @@ file = open("emails.txt","r")
 sender_email = username #Replace with your own email address
 receiver_email = file.readlines()
 for i in range (0,len(receiver_email)):
+    print(receiver_email[i])
     message = f"""\
 To: {receiver_email[i]}
 Subject: Group Interview Request (Template)
