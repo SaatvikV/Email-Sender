@@ -25,12 +25,12 @@ Subject: Group Interview Request (Template)
 
 Good Morning,
 
-We hope you are doing well during this time! Our names are Saatvik Vadlapatla and Kunsh Singh, and we're students from Chantilly High School. Though you are likely busy, we were hoping for the chance to personally interview you for 15 minutes to talk about and learn from your life experiences. We would love to talk for even longer if you'd like, but only as long as your time permits it.
+We hope you are doing well during this time! Our names are Saatvik and Kunsh, and we're students from Chantilly High School. Though you are likely busy, we were hoping for the chance to personally interview you for 15 minutes to talk about and learn from your life experiences. We would love to talk for even longer if you'd like, but only as long as your time permits it.
 
 Thank you for taking the time to read our email! Have a wonderful rest of your week.
 
 Sincerely,
-Kunsh Singh and Saatvik Vadlapatla
+Kunsh S. and Saatvik V.
 Chantilly High School
 Chantilly, Virginia
 Class of 2021
